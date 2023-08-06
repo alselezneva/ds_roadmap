@@ -11,6 +11,18 @@
 | Git | [Git Tutorial for Beginners: Learn Git in 1 Hour](https://m.youtube.com/watch?v=8JJ101D3knE) | - |
 | Git | "Pro Git" Scott Chacon, Ben Straub | - |
 
+
+#### Algorithms & Data Structures
+| Tag | Title | Status |
+| --- | --- | --- |
+| Algo | Stepik [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus) | - |
+| Algo | Stepik [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus) | - |
+| Algo | Udemy [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | - |
+| Algo | Book "Грокаем алгоритмы" Адитья Бхаргава| - |
+| Algo | Book "Карьера программиста" Гэйл Лакман Макдауэлл | - |
+| Algo | Book "Совершенный алгоритм. Основы" Тим Рафгарден | - |
+
+
 #### Programming
 | Tag | Title | Status |
 | --- | --- | --- |
@@ -31,6 +43,42 @@
 | Python | "Python. К вершинам мастерства" Лучано Рамальо | - |
 | Python | ["Программирование на	Python 3. Подробное руководство"](https://www.tutorialspoint.com/python/python_quick_guide.htm) Марк Саммерфилд| - |
 
+
+
+
+
+#### Visualization
+| Tag | Title | Status |
+| --- | --- | --- |
+| Viz | [Bootswatch](https://www.bootstrapcdn.com/bootswatch/) | - |
+| Viz | [Plotly Dash](https://dash.plotly.com/layout) | - |
+| Viz | Coursera [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) | - |
+| Viz | Paper [3 Python Tools Every Data Scientist Should Use](https://medium.com/trymito/3-python-tools-every-data-scientist-should-use-a250256cfbac) | - |
+
+
+#### DevOps
+| Tag | Title | Status |
+| --- | --- | --- |
+| Docker | Stepik [Docker для начинающих](https://stepik.org/course/74010/syllabus)| - |
+| Docker | Coursera [Introduction to Containers: Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | - |
+
+
+
+#### Mathematics
+| Tag | Title | Status |
+| --- | --- | --- |
+| Statictics | Book "Голая статистика. Самая интересная книга о самой скучной науке" Чарльз Уилан | - |
+| Statictics | Book "Как лгать при помощи статистики" Дарелл Хафф| - |
+
+
+#### Soft Skills 
+| Tag | Title | Status |
+| --- | --- | --- |
+
+#### Competitions
+| Tag | Title | Status |
+| --- | --- | --- |
+| Kaggle | - | - |
 
 
 
