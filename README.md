@@ -1,15 +1,21 @@
 # ds_roadmap
 
-#### Basic Knowledge 
+#### MLOps
 | Tag | Title | Status |
 | --- | --- | --- |
 | Linux | [Тренажер по командной строке Linux](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | - | 
-| Linux | "The Linux Command Line. A Complete Introduction" William Shotts| - |
+| Linux | Book "The Linux Command Line. A Complete Introduction" William Shotts| - |
 | Git | [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU) | - | 
 | Git | [Oh My Git!](https://blinry.itch.io/oh-my-git) | - |
 | Git | [Git How To: курс обучения Git на русском](https://githowto.com/ru) | - |
 | Git | [Git Tutorial for Beginners: Learn Git in 1 Hour](https://m.youtube.com/watch?v=8JJ101D3knE) | - |
-| Git | "Pro Git" Scott Chacon, Ben Straub | - |
+| Git | Book "Pro Git" Scott Chacon, Ben Straub | - |
+| Docker | Stepik [Docker для начинающих](https://stepik.org/course/74010/syllabus)| - |
+| Docker | Coursera [Introduction to Containers: Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | - |
+| AWS | - | - |
+| DVC | - | - | 
+| MLFlow | - | - |
+
 
 
 #### Algorithms & Data Structures
@@ -56,13 +62,6 @@
 | Viz | Paper [3 Python Tools Every Data Scientist Should Use](https://medium.com/trymito/3-python-tools-every-data-scientist-should-use-a250256cfbac) | - |
 
 
-#### DevOps
-| Tag | Title | Status |
-| --- | --- | --- |
-| Docker | Stepik [Docker для начинающих](https://stepik.org/course/74010/syllabus)| - |
-| Docker | Coursera [Introduction to Containers: Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | - |
-
-
 
 #### Mathematics
 | Tag | Title | Status |
@@ -74,6 +73,7 @@
 #### Soft Skills 
 | Tag | Title | Status |
 | --- | --- | --- |
+||||
 
 #### Competitions
 | Tag | Title | Status |
